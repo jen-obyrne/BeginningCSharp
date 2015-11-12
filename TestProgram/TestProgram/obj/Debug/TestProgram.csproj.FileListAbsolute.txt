@@ -1,0 +1,9 @@
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\TestProgram\TestProgram\bin\Debug\TestProgram.exe.config
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\TestProgram\TestProgram\bin\Debug\TestProgram.exe
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\TestProgram\TestProgram\bin\Debug\TestProgram.pdb
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\TestProgram\TestProgram\obj\Debug\TestProgram.csprojResolveAssemblyReference.cache
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\TestProgram\TestProgram\obj\Debug\TestProgram.Properties.Resources.resources
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\TestProgram\TestProgram\obj\Debug\TestProgram.csproj.GenerateResource.Cache
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\TestProgram\TestProgram\obj\Debug\TestProgram.exe
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\TestProgram\TestProgram\obj\Debug\TestProgram.pdb
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\TestProgram\TestProgram\obj\Debug\TestProgram.WelcomeForm.resources

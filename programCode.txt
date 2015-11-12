@@ -1,0 +1,20 @@
+using System.Windows.Forms;
+
+public class frmMain : Form
+{
+    private void InitializeComponent()
+    {
+
+    }
+
+    public frmMain()
+    {
+        InitializeComponent();
+    }
+
+    public static void Main()
+    {
+        var main = new frmMain();
+        Application.Run(main);
+    }
+}

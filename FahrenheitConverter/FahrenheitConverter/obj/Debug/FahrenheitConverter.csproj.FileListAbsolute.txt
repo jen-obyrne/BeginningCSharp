@@ -1,0 +1,9 @@
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\FahrenheitConverter\FahrenheitConverter\bin\Debug\FahrenheitConverter.exe.config
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\FahrenheitConverter\FahrenheitConverter\bin\Debug\FahrenheitConverter.exe
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\FahrenheitConverter\FahrenheitConverter\bin\Debug\FahrenheitConverter.pdb
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\FahrenheitConverter\FahrenheitConverter\obj\Debug\FahrenheitConverter.csprojResolveAssemblyReference.cache
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\FahrenheitConverter\FahrenheitConverter\obj\Debug\frmMain.resources
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\FahrenheitConverter\FahrenheitConverter\obj\Debug\FahrenheitConverter.Properties.Resources.resources
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\FahrenheitConverter\FahrenheitConverter\obj\Debug\FahrenheitConverter.csproj.GenerateResource.Cache
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\FahrenheitConverter\FahrenheitConverter\obj\Debug\FahrenheitConverter.exe
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\FahrenheitConverter\FahrenheitConverter\obj\Debug\FahrenheitConverter.pdb

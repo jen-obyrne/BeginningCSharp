@@ -1,0 +1,7 @@
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\MailingLabel\MailingLabel\bin\Debug\MailingLabel.exe.config
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\MailingLabel\MailingLabel\bin\Debug\MailingLabel.exe
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\MailingLabel\MailingLabel\bin\Debug\MailingLabel.pdb
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\MailingLabel\MailingLabel\obj\Debug\frmMain.resources
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\MailingLabel\MailingLabel\obj\Debug\MailingLabel.csproj.GenerateResource.Cache
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\MailingLabel\MailingLabel\obj\Debug\MailingLabel.exe
+\\inside.xero.com\users$\NZWLG\jennifer.obyrne\Documents\Visual Studio 2013\Projects\Beginning C# 3.0\MailingLabel\MailingLabel\obj\Debug\MailingLabel.pdb
